@@ -1,2 +1,2 @@
-# FCIS_Library_Alternate
-Alternate project
+# FCIS_Library
+- Structured Programming Course Project
